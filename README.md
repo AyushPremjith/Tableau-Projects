@@ -52,5 +52,5 @@ Actively working on enhancing this dashboard with more advanced features, includ
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please create an issue in the GitHub repository.
 
-For support or inquiries, you can contact our team at ayush5premmjith@gmail.com.
+For support or inquiries, you can contact our team at ayush5premjith@gmail.com.
 
